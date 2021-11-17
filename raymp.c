@@ -300,7 +300,7 @@ int main(void)
    //
    //
    //
-   fout = fopen( "spheres.ppm" , "w" ) ;
+   fout = fopen( "image.ppm" , "w" ) ;
    //
    fprintf( fout , "P3\n" ) ;
    fprintf( fout , "%d %d\n" , M , N ) ;
