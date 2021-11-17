@@ -5,5 +5,5 @@ raymp.c when ran will draw three spheres on top of a checkered floor against a s
 
 This program can be ran in parallel on the CPU using OpenMP. This will have pixels calculate their color values in parallel based on the number of threads assigned to OpenMP. More can be read on how to use OpenMP here https://cs.stanford.edu/people/eroberts/courses/soco/projects/1997-98/ray-tracing/implementation.html.
 
-Project 2018-2020 with help of Dr. Shane Torbert in TJHSST's Parallel Computing Class.
+Project created in 2018-2020 with help of Dr. Shane Torbert in TJHSST's Parallel Computing Class.
 
